@@ -172,7 +172,7 @@ Final tuned XGBoost performance on the held-out test: R² = 0.9986, RMSE = 0.104
 
 >**Interpretation note:** the near-perfect predictive performance is expected given the strong mathematical relationship between gross margin and its underlying price, discount and unit cost components.
 
-### 6. SHAP Relational & Dependence Analysis
+### 5. SHAP Relational & Dependence Analysis
 SHAP tree explainers were utilized to inspect feature rankings and evaluate relationship shapes:
 
 ```python
@@ -214,7 +214,7 @@ shap.dependence_plot(
 
 - Core Takeaway: The evidence did not support claiming a universal nonlinear threshold across operating variables. Commercial governance should therefore rely on dynamic, SKU-level margin floors rather than arbitrary universal rules.
 
-## Recommendation
+## Recommendations
 
 1. Targeted Cost Recovery in Electronics: Renegotiate procurement terms, source alternative suppliers, or selectively pass cost increases through to customers for high-drag Electronics SKUs (P011, P004, P001, P009, P006).
 
