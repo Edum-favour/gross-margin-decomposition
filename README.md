@@ -1,6 +1,6 @@
 # Gross Margin Decomposition: A Hybrid SQL & SHAP Driver Analysis
 ## Problem Statement
-Between 2024 and 2025, the business delivered strong top-line revenue growth, with revenue increasing from $16.52M to $19.00M (+15%). However, this growth did not translate proportionally into profitability: gross profit increased by only $110K (from $6.00M to $6.11M), and gross margin declined from 36.34% to 32.14%, a 420 basis point compression.
+Between 2024 and 2025, the business delivered strong top-line revenue growth, with revenue increasing from $16.52M to $19.00M (+15%). However, this growth did not translate proportionally into profitability: gross profit increased by only 1.7% (from $6.00M to $6.11M), and gross margin declined from 36.34% to 32.14%, a 420 basis point compression.
 
 This divergence creates a fundamental profitability question:
 > **Why did substantial revenue growth produce almost no corresponding growth in gross profit?**
